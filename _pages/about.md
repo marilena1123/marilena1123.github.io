@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Incoming MRes Student in AI and Machine Learning at Imperial College London
+subtitle: Incoming MRes Student in AI & ML @Imperial
 
 profile:
   align: right
