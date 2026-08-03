@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-## Conferences and Journals
+## Conferences, Workshops and Journals
 
 <div class="publications">
 
