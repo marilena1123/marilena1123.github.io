@@ -26,4 +26,4 @@ My current research interests include LLMs' reasoning, interpretability, and exp
 
 I obtained my Integrated Master's in Electrical and Computer Engineering from the [National Technical University of Athens (NTUA)](https://www.ntua.gr/en/), where I completed my diploma thesis under the supervision of Prof. [Alexandros Potamianos](https://scholar.google.gr/citations?user=pBQViyUAAAAJ&hl=en&oi=ao). After graduation, I spent approximately one and a half wonderful years as an Associate Researcher at the [Institute for Language and Speech Processing (ILSP)](https://www.ilsp.gr/en/) of the [Athena Research Center](https://www.athenarc.gr/en), where I worked on LLM reasoning, interpretability, and explainability projects.
 
-I am actively looking for PhD opportunities and am always open to exciting research opportunities.
+I am actively seeking PhD opportunities and am always open to exciting research collaborations.
