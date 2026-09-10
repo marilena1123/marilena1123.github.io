@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Incoming MRes Student in AI & ML @ Imperial
+subtitle: MRes Student in AI & ML @ Imperial
 
 profile:
   align: right
@@ -20,7 +20,7 @@ latest_posts:
   enabled: false
 ---
 
-Hi! My name is Maria-Eleni Zoumpoulidi, but I go by Marilena. I am an incoming MRes student in AI and Machine Learning at [Imperial College London](https://www.imperial.ac.uk/) and an NLP and ML researcher. 
+Hi! My name is Maria-Eleni Zoumpoulidi, but I go by Marilena. I am an MRes student in AI and Machine Learning at [Imperial College London](https://www.imperial.ac.uk/) and an NLP and ML researcher. 
 
 My current research interests include LLMs' reasoning, interpretability, and explainability. Broadly, I seek to answer three interdependent questions: How do LLMs reason internally? How can we enhance their reasoning abilities? And how can we make their reasoning more understandable to humans?
 
