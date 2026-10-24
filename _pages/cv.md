@@ -13,7 +13,7 @@ nav_order: 5
 </p>
 
 <iframe
-  src="/assets/pdf/CV_Zoumpoulidi_final_oct26.pdf"
+  src="/assets/pdf/CV_Zoumpoulidi_oct26.pdf"
   width="100%"
   height="1000px"
   style="border: none;">
